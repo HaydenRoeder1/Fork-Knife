@@ -1,0 +1,7 @@
+Cauliflower,50,h
+Broccoli,100,h
+TomatoJuice,50,s
+CarrotJuice,100,s
+AppleJuice,100,b
+GrapeJuice,50,b
+Alcohol,0,r

@@ -1,0 +1,9 @@
+Consumable Information:
+Name         - Ramsey's Review. Consumables Purpose.
+Cauliflower  - Bet you'll need this after you stab yourself in the foot. Heals 25 Health.
+Broccoli     - Use this to bring your worthless life back from the brink of death. Heals 100 Health.
+Tomato Juice - Slurp this right down you filthy pig. Restores 25 Shield.
+Carrot Juice - Drinking this might get ya a fighting chance... Probably not. Restores 50 Shield.
+Grape Juice  - This one's pretty good, you'll still find a way to f*ck it up though. Restores 50 Shield and Health.
+Apple Juice  - Even with this I have no faith in you. Restores 100 Shield and Health.
+Alcohol      - Risk it, I dare you. Gets you blackout drunk, taking you to a random location on the map while restoring full Health and Shield, but if the random location is one of Ramsay's destroyed locations then you die.
